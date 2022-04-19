@@ -5,15 +5,14 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: muhozkan <muhozkan@student.42.tr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/04/13 00:34:04 by muhozkan          #+#    #+#             */
-/*   Updated: 2022/04/13 00:37:02 by muhozkan         ###   ########.fr       */
+/*   Created: 2022/02/19 16:18:35 by muhozkan          #+#    #+#             */
+/*   Updated: 2022/02/19 16:18:40 by muhozkan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
-//gezgen
 # include <stdio.h>
 # include <unistd.h>
 # include  <stdlib.h>
