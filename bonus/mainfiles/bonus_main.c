@@ -64,7 +64,7 @@ int	main(int argc, char **argv)
 		message(RED"Sadece 2 arguman girebilirsin\n", &game);
 	ft_window_size(&game, argv);
 	game.mlx = mlx_init();
-	game.window = mlx_new_window(game.mlx, game.size_x, game.size_y, "Kajun1337-Gaming");
+	game.window = mlx_new_window(game.mlx, game.size_x, game.size_y, "Kj1337");
 	baslangic(&game);
 	create_map_line(&game, argv);
 	game_control(&game);
