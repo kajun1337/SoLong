@@ -1,4 +1,4 @@
-# BayraktarTB2.md
+# BAYRAKTARTB2 [![aeryilma's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2clcq4c016009l8uaoijwh3/project/2538270)]
 
 ![](https://github.com/kajun1337/SoLong/blob/main/fragman.gif)
 
